@@ -25,7 +25,7 @@ date: 2025-12-07
 <li>Up to 6 hours of battery life</li>
 </ul>
 
-<img src="/img/ai-glasses-1.jpg" alt="Ray-Ban Meta Gen 1 AI Glasses">
+<img src="/img/ai-glasses-1.avif" alt="Ray-Ban Meta Gen 1 AI Glasses">
 
 <h2>Ray-Ban Meta (Gen 2)</h2>
 
@@ -42,7 +42,7 @@ date: 2025-12-07
 
 <p><strong>Main Differences from Gen 1:</strong> Better battery life, improved camera, and wireless charging.</p>
 
-<img src="/img/ai-glasses-2.jpg" alt="Ray-Ban Meta Gen 2 AI Glasses">
+<img src="/img/ai-glasses-2.avif" alt="Ray-Ban Meta Gen 2 AI Glasses">
 
 <h2>Ray-Ban Meta Display</h2>
 
@@ -59,7 +59,7 @@ date: 2025-12-07
 
 <p><strong>User Feedback:</strong> Users praise the AR capabilities but note the shorter battery life and higher price point.</p>
 
-<img src="/img/ai-glasses-3.jpg" alt="Ray-Ban Meta Display AI Glasses">
+<img src="/img/ai-glasses-3.webp" alt="Ray-Ban Meta Display AI Glasses">
 
 <h2>Solos AirGo 3 Argon 7</h2>
 
@@ -93,7 +93,7 @@ date: 2025-12-07
 
 <p><strong>User Feedback:</strong> Praised for AI capabilities and video quality, but some users report comfort issues during extended wear.</p>
 
-<img src="/img/ai-glasses-5.jpg" alt="Rokid Max AI Glasses">
+<img src="/img/ai-glasses-5.webp" alt="Rokid Max AI Glasses">
 
 <h2>Comparison and User Feedback Summary</h2>
 
