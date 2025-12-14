@@ -1,4 +1,4 @@
-# Beck Nian's Tech Blog
+# Huiyi's Tech Blog
 
 This repository contains the source code for my tech blog hosted on GitHub Pages at [becknian.github.io/tech-blog](https://becknian.github.io/tech-blog).
 

@@ -2,13 +2,18 @@
 layout: default
 ---
 
-# Welcome to My Tech Blog
+<div class="hero">
+    <h1>Welcome to Huiyi's Tech Blog</h1>
+    <p>Exploring the latest in technology, gadgets, and innovation.</p>
+</div>
 
-Here are my latest posts:
-
-{% for post in site.posts %}
-## [{{ post.title }}]({{ post.url }})
-{{ post.excerpt }}
-
----
-{% endfor %}
+<div class="posts-grid">
+    {% for post in site.posts %}
+    <article class="post-card">
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        <p class="post-meta">{{ post.date | date: "%B %d, %Y" }}</p>
+        <p>{{ post.excerpt }}</p>
+        <a href="{{ post.url }}" class="read-more">Read More</a>
+    </article>
+    {% endfor %}
+</div>

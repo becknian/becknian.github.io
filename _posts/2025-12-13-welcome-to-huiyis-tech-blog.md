@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Welcome to My Tech Blog"
+title: "Welcome to Huiyi's Tech Blog"
 ---
 
 Hello! This is my first blog post.
