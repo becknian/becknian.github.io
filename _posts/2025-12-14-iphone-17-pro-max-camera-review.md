@@ -12,7 +12,7 @@ title: "iPhone 17 Pro Max Camera Review: Better Than You Think!"
 
 <p>The iPhone 17 Pro Max introduces a groundbreaking 48MP main sensor with quad-pixel technology, but that's just the beginning. What sets it apart is the new "Adaptive Fusion" sensor that combines traditional CMOS with a secondary computational layer.</p>
 
-<img src="https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="iPhone 17 Pro Max Camera Sensors">
+<img src="/img/image1.jpg" alt="iPhone 17 Pro Max Camera Sensors">
 
 <p>This dual-layer approach allows for unprecedented dynamic range and low-light performance. In my testing, the phone captured usable images in conditions that would leave other flagship cameras struggling.</p>
 
@@ -22,7 +22,7 @@ title: "iPhone 17 Pro Max Camera Review: Better Than You Think!"
 
 <p>But the real game-changer is the "Scene Optimizer" mode. This intelligent system analyzes the scene and applies custom processing algorithms optimized for specific environments - from bustling city streets to serene landscapes.</p>
 
-<img src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="AI Computational Photography Demo">
+<img src="/img/image2.jpg" alt="AI Computational Photography Demo">
 
 <h2>Pro-Level Video Capabilities</h2>
 
@@ -36,7 +36,7 @@ title: "iPhone 17 Pro Max Camera Review: Better Than You Think!"
 
 <p>What impressed me most is the seamless zoom experience. Switching between lenses is now instantaneous, with no jarring transitions or quality drops.</p>
 
-<img src="https://images.unsplash.com/photo-1502920917128-1aa500764cbd?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Telephoto Zoom Comparison">
+<img src="/img/image3.webp" alt="Telephoto Zoom Comparison">
 
 <h2>Portrait Mode Revolution</h2>
 
