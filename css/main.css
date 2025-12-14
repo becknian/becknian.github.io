@@ -1,4 +1,9 @@
-/* Modern Tech Blog Styles Inspired by dev.to */
+.post-author {
+    color: #666;
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+    font-style: italic;
+}
 
 * {
     margin: 0;
