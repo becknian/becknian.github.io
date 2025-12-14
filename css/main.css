@@ -68,7 +68,12 @@ header {
 .hero {
     text-align: center;
     padding: 4rem 2rem;
-    color: white;
+    color: #333;
+    background: rgba(255, 255, 255, 0.95);
+    border-radius: 12px;
+    margin: 2rem auto;
+    max-width: 800px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
 }
 
 .hero h1 {
