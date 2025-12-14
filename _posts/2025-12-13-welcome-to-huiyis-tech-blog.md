@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Welcome to Huiyi's Tech Blog"
+title: "Welcome to Tech Insider"
+author: Huiyi
 ---
 
 Hello! This is my first blog post.

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "iPhone 17 Pro Max Camera Review: Better Than You Think!"
+author: Huiyi
 ---
 
 <div class="post-content">

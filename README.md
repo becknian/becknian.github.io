@@ -1,4 +1,4 @@
-# Huiyi's Tech Blog
+# Tech Insider
 
 This repository contains the source code for my tech blog hosted on GitHub Pages at [becknian.github.io/tech-blog](https://becknian.github.io/tech-blog).
 
