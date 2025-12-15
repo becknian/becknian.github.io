@@ -59,7 +59,7 @@ date: 2025-11-14
 
 <p><strong>User Feedback:</strong> Professional users praise the image quality, but note the high price and learning curve.</p>
 
-<img src="/img/drone-dji-mavic3.jpg" alt="DJI Mavic 3 Pro Drone">
+<img src="/img/drone-dji-mavic3.png" alt="DJI Mavic 3 Pro Drone">
 
 <h2>DJI Flip</h2>
 
@@ -93,7 +93,7 @@ date: 2025-11-14
 
 <p><strong>Main Differences from DJI:</strong> 6K capability, competitive pricing, different ecosystem.</p>
 
-<img src="/img/drone-autel.jpg" alt="Autel EVO Lite Drone">
+<img src="/img/drone-autel.webp" alt="Autel EVO Lite Drone">
 
 <h2>SwellPro Fisherman FD</h2>
 

@@ -26,7 +26,7 @@ date: 2025-10-05
 <li>AI chatbots that check in on mental health</li>
 </ul>
 
-<img src="/img/ai-senior-1.jpg" alt="AI Health Monitoring for Seniors">
+<img src="/img/ai-senior-1.avif" alt="AI Health Monitoring for Seniors">
 
 <h3>Companionship and Social Interaction</h3>
 
@@ -52,7 +52,7 @@ date: 2025-10-05
 <li>Smart pill dispensers with voice guidance</li>
 </ul>
 
-<img src="/img/ai-senior-2.jpg" alt="AI Companionship Robots">
+<img src="/img/ai-senior-2.avif" alt="AI Companionship Robots">
 
 <h2>Current Robotics in Senior Care</h2>
 
@@ -123,8 +123,6 @@ date: 2025-10-05
 <li><strong>Scalability:</strong> Difficulty deploying at scale</li>
 </ul>
 
-<img src="/img/ai-senior-4.jpg" alt="Challenges in Senior AI Adoption">
-
 <h2>Future Expectations</h2>
 
 <h3>Advanced AI Integration</h3>
@@ -154,7 +152,7 @@ date: 2025-10-05
 <li><strong>Emergency Response:</strong> Rapid response systems for medical emergencies</li>
 </ul>
 
-<img src="/img/ai-senior-5.jpg" alt="Future AI and Robotics in Senior Care">
+<img src="/img/ai-senior-5.webp" alt="Future AI and Robotics in Senior Care">
 
 <h3>Societal Impact</h3>
 

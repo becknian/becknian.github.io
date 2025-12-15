@@ -27,7 +27,7 @@ date: 2025-10-16
 
 <p><strong>User Experience:</strong> Early adopters report smooth highway driving but challenges in urban environments. The system learns from user interventions.</p>
 
-<img src="/img/autonomous-tesla.jpg" alt="Tesla Autonomous Driving">
+<img src="/img/autonomous-tesla.webp" alt="Tesla Autonomous Driving">
 
 <h2>Waymo</h2>
 
@@ -46,7 +46,7 @@ date: 2025-10-16
 
 <p><strong>User Experience:</strong> Passengers report high comfort levels, though service is limited to specific areas.</p>
 
-<img src="/img/autonomous-waymo.jpg" alt="Waymo Autonomous Vehicle">
+<img src="/img/autonomous-waymo.webp" alt="Waymo Autonomous Vehicle">
 
 <h2>Pony.ai</h2>
 
@@ -63,7 +63,7 @@ date: 2025-10-16
 
 <p><strong>User Experience:</strong> Users appreciate the smooth rides in complex urban settings, though some report occasional hesitations at intersections.</p>
 
-<img src="/img/autonomous-pony.jpg" alt="Pony.ai Autonomous Driving">
+<img src="/img/autonomous-pony.webp" alt="Pony.ai Autonomous Driving">
 
 <h2>Robotaxi Services Overview</h2>
 

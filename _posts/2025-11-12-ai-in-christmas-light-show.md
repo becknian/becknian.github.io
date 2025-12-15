@@ -24,7 +24,7 @@ date: 2025-11-12
 <li><strong>Creativity:</strong> Complex patterns and animations</li>
 </ul>
 
-<img src="/img/ai-christmas-1.jpg" alt="AI-powered Christmas Light Show">
+<img src="/img/ai-christmas-1.webp" alt="AI-powered Christmas Light Show">
 
 <h2>AI Technologies in Light Shows</h2>
 
@@ -74,7 +74,7 @@ date: 2025-11-12
 
 <p>Hyde Park's Winter Wonderland uses AI to personalize experiences. Visitors can use an app to request favorite carols, and the AI system weaves these requests into the overall show.</p>
 
-<img src="/img/ai-christmas-4.jpg" alt="AI Christmas Light Examples">
+<img src="/img/ai-christmas-4.webp" alt="AI Christmas Light Examples">
 
 <h2>Future of AI in Holiday Displays</h2>
 

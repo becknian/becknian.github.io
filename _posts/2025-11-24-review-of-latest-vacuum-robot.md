@@ -42,7 +42,7 @@ date: 2025-11-24
 
 <p><strong>Main Differences:</strong> Emphasis on pet hair and hard floor cleaning, more affordable pricing.</p>
 
-<img src="/img/vacuum-shark.jpg" alt="Shark Navigator Lift-Away Professional Robot Vacuum">
+<img src="/img/vacuum-shark.webp" alt="Shark Navigator Lift-Away Professional Robot Vacuum">
 
 <h2>iRobot Roomba Combo j9+</h2>
 
