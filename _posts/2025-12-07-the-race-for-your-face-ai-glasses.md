@@ -8,9 +8,7 @@ date: 2025-12-07
 <div class="post-content">
 <h1>The Race for Your Face: AI Glasses</h1>
 
-<p class="post-author">By Guoqin Zhang</p>
-
-<p class="post-date">Published on {{ page.date | date: "%B %d, %Y" }}</p>
+<p class="post-author">By Guoqin Zhang on {{ page.date | date: "%B %d, %Y" }}</p>
 
 <p>AI glasses are revolutionizing how we interact with technology, blending augmented reality with artificial intelligence to create seamless, hands-free experiences. As the market evolves rapidly, several players have emerged with innovative offerings. In this comprehensive review, I'll compare five popular AI glasses: Ray-Ban Meta (Gen 1), Ray-Ban Meta (Gen 2), Ray-Ban Meta Display, Solos AirGo 3 Argon 7, and Rokid Max. We'll explore their key features, main differences, and user feedback to help you decide which might be the best fit for your needs.</p>
 

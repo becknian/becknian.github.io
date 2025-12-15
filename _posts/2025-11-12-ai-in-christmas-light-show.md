@@ -8,9 +8,7 @@ date: 2025-11-12
 <div class="post-content">
 <h1>AI in Christmas Light Show</h1>
 
-<p class="post-author">By Guoqin Zhang</p>
-
-<p class="post-date">Published on {{ page.date | date: "%B %d, %Y" }}</p>
+<p class="post-author">By Guoqin Zhang on {{ page.date | date: "%B %d, %Y" }}</p>
 
 <p>Christmas light shows have evolved from simple string lights to spectacular, synchronized displays that transform neighborhoods and public spaces. Artificial Intelligence is playing an increasingly important role in creating these magical experiences. In this article, we'll explore how AI is revolutionizing Christmas light shows and share examples from different countries around the world.</p>
 

@@ -8,9 +8,7 @@ date: 2025-10-05
 <div class="post-content">
 <h1>How Can AI and Robot Help Older People</h1>
 
-<p class="post-author">By Guoqin Zhang</p>
-
-<p class="post-date">Published on {{ page.date | date: "%B %d, %Y" }}</p>
+<p class="post-author">By Guoqin Zhang on {{ page.date | date: "%B %d, %Y" }}</p>
 
 <p>As our population ages, technology is playing an increasingly important role in supporting older adults. AI and robotics offer promising solutions for maintaining independence, health, and quality of life for seniors. In this article, we'll explore current applications of AI and robots in senior care, identify existing gaps, and discuss what we can expect in the near future.</p>
 
