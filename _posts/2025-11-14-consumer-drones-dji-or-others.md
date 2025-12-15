@@ -10,6 +10,8 @@ date: 2025-11-14
 
 <p class="post-author">By Jianian Zheng</p>
 
+<p class="post-date">Published on {{ page.date | date: "%B %d, %Y" }}</p>
+
 <p>The consumer drone market has exploded in recent years, with DJI maintaining a dominant position. However, competitors are catching up with innovative features and competitive pricing. In this comprehensive review, I'll compare several popular consumer drones: DJI MINI 4 Pro, DJI Air 3, DJI Mavic 3 Pro, DJI Flip, Autel EVO Lite, and SwellPro Fisherman FD. We'll explore their key features, main differences, user feedback, and discuss DJI's leadership in the space.</p>
 
 <h2>DJI MINI 4 Pro</h2>

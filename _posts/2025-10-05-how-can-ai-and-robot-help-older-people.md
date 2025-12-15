@@ -10,6 +10,8 @@ date: 2025-10-05
 
 <p class="post-author">By Guoqin Zhang</p>
 
+<p class="post-date">Published on {{ page.date | date: "%B %d, %Y" }}</p>
+
 <p>As our population ages, technology is playing an increasingly important role in supporting older adults. AI and robotics offer promising solutions for maintaining independence, health, and quality of life for seniors. In this article, we'll explore current applications of AI and robots in senior care, identify existing gaps, and discuss what we can expect in the near future.</p>
 
 <h2>Current AI Applications in Senior Care</h2>

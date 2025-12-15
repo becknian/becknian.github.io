@@ -10,6 +10,8 @@ date: 2025-10-16
 
 <p class="post-author">By Jianian Zheng</p>
 
+<p class="post-date">Published on {{ page.date | date: "%B %d, %Y" }}</p>
+
 <p>Autonomous driving technology has progressed rapidly in recent years, with major automotive companies and tech giants investing billions in development. While full autonomy remains elusive, significant advancements have been made. In this article, we'll examine the current state of autonomous driving across different companies, including Tesla, Waymo, Pony.ai, and robotaxi services. We'll compare their key features, main differences, user experiences, and identify remaining gaps.</p>
 
 <h2>Tesla Full Self-Driving (FSD)</h2>

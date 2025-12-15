@@ -10,6 +10,8 @@ date: 2025-11-24
 
 <p class="post-author">By Jianian Zheng</p>
 
+<p class="post-date">Published on {{ page.date | date: "%B %d, %Y" }}</p>
+
 <p>Robot vacuums have become essential home appliances, evolving from basic cleaners to sophisticated smart devices. In this review, I'll compare the latest offerings from major brands: Roborock, Shark, iRobot, and Dyson. We'll examine their key features, main differences, and user feedback to help you choose the best robot vacuum for your home.</p>
 
 <h2>Roborock S8 Pro Ultra</h2>

@@ -2,12 +2,15 @@
 layout: default
 title: "iPhone 17 Pro Max Camera Review: Better Than You Think!"
 author: Huiyi
+date: 2025-12-14
 ---
 
 <div class="post-content">
 <h1>iPhone 17 Pro Max Camera Review: Better Than You Think!</h1>
 
 <p class="post-author">By Huiyi</p>
+
+<p class="post-date">Published on {{ page.date | date: "%B %d, %Y" }}</p>
 
 <p>As a tech enthusiast and avid photographer, I've been eagerly awaiting the iPhone 17 Pro Max. Apple's latest flagship has finally arrived, and while the camera system has always been a standout feature, this year's iteration takes it to new heights. In this comprehensive review, I'll dive deep into the key new features that make the iPhone 17 Pro Max camera system truly exceptional. Spoiler alert: it's better than you think!</p>
 
